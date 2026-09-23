@@ -38,11 +38,11 @@
 
 ### 🚀 Featured Projects
 
-**[Restaurant Management System w/ AI Integration](https://github.com/wkinc)** — Top 10, Access Group Hackathon 2026. Inventory web app with Claude API recommending restock decisions.
+**[Restaurant Management System w/ AI Integration](https://github.com/wkinc/restaurant-project---Rebuild)** — Top 10, Access Group Hackathon 2026. Inventory web app with Claude API recommending restock decisions. Rebuild Version
 
-**[Motion Detector](https://github.com/wkinchua/Motion_Detector)** — Python-based motion detection experiment.
+**[Motion Detector](https://github.com/wkinc/Motion_Detector)** — Python-based motion detection experiment.
 
-**[Learn How to Code](https://wkinchua.github.io/learncode)** — A beginner-friendly site teaching people to code.
+**[Learn How to Code](https://wkinc.github.io/learncode)** — A beginner-friendly site teaching people to code.
 
 **[Changelog / Side Projects](https://wkinc.github.io/random-thing/)** — Where I log whatever random side project I'm messing with.
 
