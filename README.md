@@ -2,11 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Data+Science+Major;Python+%C2%B7+SQL+%C2%B7+AI+Integration;Open+to+Internships!&font=Fira%20Code&center=true&width=500&height=45&color=61DAFB&vCenter=true&size=20" />
 
-🎓 Bachelor of Computer Science (Data Science), expected 2027
-🏆 Top 10, The Access Group Hackathon 2026 — built an AI-powered restaurant inventory system
-💼 Former IT Intern @ CTC Global (inventory data)
-🌱 I enjoy solving real-world business problems with data and automation
-
+- 🎓 Bachelor of Computer Science (Data Science), expected 2027
+- 🏆 Top 10, The Access Group Hackathon 2026 — built an AI-powered restaurant inventory system
+- 💼 Former IT Intern @ CTC Global (inventory data)
+- 🌱 I enjoy solving real-world business problems with data and automation
 ---
 
 ### 🛠️ Languages
@@ -47,12 +46,6 @@
 **[Learn How to Code](https://wkinchua.github.io/learncode)** — A beginner-friendly site teaching people to code.
 
 **[Changelog / Side Projects](https://wkinc.github.io/random-thing/)** — Where I log whatever random side project I'm messing with.
-
----
-
-### 📊 GitHub Stats
-
-
 
 ---
 
