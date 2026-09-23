@@ -1,6 +1,6 @@
 ### Hi, I'm Weng Kin 👋 — you can call me Calvin
 
-<img src="https://readme-typing-svg.demolab.com/?lines=  Comp+Science+%7C+Data+Science+Student;Python+%C2%B7+SQL+%C2%B7+AI+Integration;Open+to+Internships!&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Data+Science+Major;Python+%C2%B7+SQL+%C2%B7+AI+Integration;Open+to+Internships!&font=Fira%20Code&center=true&width=500&height=45&color=61DAFB&vCenter=true&size=20" />
 
 🎓 Bachelor of Computer Science (Data Science), expected 2027
 🏆 Top 10, The Access Group Hackathon 2026 — built an AI-powered restaurant inventory system
