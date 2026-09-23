@@ -52,8 +52,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=wkinc&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkinc&layout=compact&theme=tokyonight" height="165"/>
+
 
 ---
 
