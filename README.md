@@ -4,7 +4,6 @@
 
 - 🎓 Bachelor of Computer Science (Data Science), expected 2027
 - 🏆 Top 10, The Access Group Hackathon 2026 — built an AI-powered restaurant inventory system
-- 💼 Former IT Intern @ CTC Global (inventory data)
 - 🌱 I enjoy solving real-world business problems with data and automation
 ---
 
