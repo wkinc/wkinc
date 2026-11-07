@@ -1,11 +1,11 @@
-### Hi, I'm Weng Kin 👋 — you can call me Calvin
+# Hi, I'm Weng Kin 👋 (Calvin)
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Data+Science+Major;Python+%C2%B7+SQL+%C2%B7+AI+Integration;Data+Analytics+%C2%B7+Automation&font=Fira%20Code&center=true&width=550&height=45&color=61DAFB&vCenter=true&size=20" />
 
 - 🎓 Bachelor of Computer Science (Data Science), expected 2027
-- 🏆 Top 10, The Access Group Hackathon 2026 — built an AI-powered restaurant inventory system
-- 🤖 Interested in AI integration, data analytics, and workflow automation
-- 🌱 I enjoy solving real-world problems through programming, data, and automation.
+- 🏆 Top 10, The Access Group Hackathon 2026
+- 🤖 Interested in Data Science, AI integration, and workflow automation
+- 🌱 Building projects to explore practical uses of programming and technology
 
 ---
 
@@ -41,7 +41,7 @@
 ### 🧰 Tools & Technologies
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -54,11 +54,11 @@
 
 **[AimTrace — CS2 Demo Analysis & AI-Assisted Review](https://github.com/wkinc/aimtrace-cs2)**
 
-Python-based Counter-Strike 2 demo analysis tool that extracts gameplay data and analyses player aim behaviour. Includes automated analysis reports, a Streamlit dashboard, and AI-assisted review using Ollama and n8n.
+Python-based Counter-Strike 2 demo analysis tool that extracts gameplay data and analyses player aim behaviour. Includes automated reports, a Streamlit dashboard, and AI-assisted review using Ollama and n8n.
 
 **[Restaurant Management System with AI Integration](https://github.com/wkinc/restaurant-project---Rebuild)**
 
-🏆 Top 10, The Access Group Hackathon 2026. An inventory management web application with Claude API integration to recommend stock replenishment decisions.
+🏆 Top 10, The Access Group Hackathon 2026. An inventory management web application with Claude API integration to support stock replenishment decisions.
 
 **[Motion Detector](https://github.com/wkinc/Motion_Detector)**
 
@@ -70,12 +70,12 @@ A beginner-friendly website that teaches people how to code.
 
 **[Changelog / Side Projects](https://wkinc.github.io/random-thing/)**
 
-A place where I document and share my random side projects and experiments.
+A place where I share personal experiments and side projects.
 
 ---
 
 ### 📫 Connect With Me
 
-- [Portfolio](https://wkinc.github.io/portfolio/)
-- [Contact Me](https://wkinc.github.io/portfolio/contact.html)
-- [GitHub](https://github.com/wkinc)
+- 🌐 [Portfolio Website](https://wkinc.github.io/portfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chua-weng-kin-672b73333/)
+- 💻 [GitHub](https://github.com/wkinc)
